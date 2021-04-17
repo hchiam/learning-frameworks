@@ -2,12 +2,12 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-Angular
+[Angular](https://github.com/hchiam/learning-angular)
 
-Polymer
+[Polymer](https://github.com/hchiam/learning-polymer)
 
-Closure
+[Closure](https://github.com/hchiam/learning-closure)
 
-Backbone
+[Backbone](https://github.com/hchiam/learning-backbone)
 
-React
+[React](https://github.com/hchiam/learning-reactjs)
