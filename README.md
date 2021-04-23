@@ -5,8 +5,9 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 Practice creating a simple notepad app in 5 different frameworks (try using [Yeoman generators](https://yeoman.io/generators/), kinda like [generator-hchiam-learning](https://github.com/hchiam/generator-hchiam-learning)):
 
 ```bash
-yarn global add grunt-cli
 yarn global add yo
+yarn global add grunt-cli
+yarn global add bower
 ```
 
 [Angular](https://github.com/hchiam/learning-angular)
