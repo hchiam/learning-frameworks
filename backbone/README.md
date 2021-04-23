@@ -3,7 +3,6 @@
 <https://github.com/yeoman/generator-backbone>
 
 ```bash
-yarn global add grunt-cli
 mkdir my-app && cd my-app && yarn init -y && yarn add generator-backbone generator-mocha
 yo backbone && grunt serve --force
 ```
