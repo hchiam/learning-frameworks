@@ -1,0 +1,9 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "generator-element": "^1.1.0"
+  }
+}
