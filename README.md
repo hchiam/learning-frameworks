@@ -19,3 +19,9 @@ yarn global add bower
 [Backbone](https://github.com/hchiam/learning-backbone)
 
 [React](https://github.com/hchiam/learning-reactjs)
+
+## More:
+
+[Vue](https://github.com/hchiam/learning-vue)
+
+[Svelte](https://github.com/hchiam/learning-svelte)
